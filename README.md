@@ -23,12 +23,12 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+项目大概成品：![image](https://user-images.githubusercontent.com/99474694/168413330-0fb0a5dc-bb11-4fa3-8976-37c68d208aac.png)
+
+
 book 文件夹：Theme 主题样式
-
 epub 电子书：epub 电子书资源
-
 epub2 电子书：电子书详情（各章节及相应的照片）
-
 fonts 文件夹：字体样式
 
 下载：
