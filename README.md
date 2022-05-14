@@ -47,3 +47,6 @@ git clone 下载到本地，
     }
 如果在浏览器输入本地ip+端口号能和成功展示资源的话就表示成功部署了nginx 静态资源：
 ![image](https://user-images.githubusercontent.com/99474694/168407554-764b27f4-65e7-488c-9be8-b4e91b2525a8.png)
+
+
+如果觉得项目不错，可以给个star~
