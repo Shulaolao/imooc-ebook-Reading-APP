@@ -5,7 +5,10 @@ Vue.use(Router)
 export default new Router({
     routes: [
         {
-            path: '/'
+            path: '/'，
+            component: () => import('@/views/store/StoreShelf.vue'),
+            name: 'shelf',
+            redirect: '/store/shelf'
         },
         {
             path: '/ebook',
