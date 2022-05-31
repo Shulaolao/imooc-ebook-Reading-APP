@@ -17,7 +17,7 @@ export default {
   methods: {
     getDateTime() {
       var date = new Date(),
-        hour = date.getHours() + 1,
+        hour = date.getHours(),
         minute = date.getMinutes(),
         second = date.getSeconds();
       hour = checkTime(hour);
