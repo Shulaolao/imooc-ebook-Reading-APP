@@ -51,12 +51,12 @@ export default new Router({
                 },
                 {
                     path: 'detail',
-                    meta: {index: 3},
+                    meta: {index: 4},
                     component: () => import('@/views/store/StoreDetail.vue')
                 },
                 {
                     path: 'speaking',
-                    meta: {index: 4},
+                    meta: {index: 5},
                     component: () => import('@/views/store/StoreSpeaking.vue')
                 }
             ]
