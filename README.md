@@ -1,29 +1,3 @@
-﻿
-# vue-imooc-ebook
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
 项目大概成品：![image](https://user-images.githubusercontent.com/99474694/170866926-95114b9d-20a5-497a-ad6a-1efd6f9c4300.png)
 
 以下电子书及一些静态资源云盘自取（资源比较大）：
@@ -65,3 +39,16 @@ nginx 代理服务：
 
 如果觉得项目不错，可以给个 star 呀~
 
+﻿
+# vue-imooc-ebook
+
+## Project setup
+```
+npm install
+
+npm run serve
+
+npm run build
+
+npm run lint
+```
