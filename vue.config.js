@@ -17,6 +17,7 @@ const flatListData = require('./src/mock/bookFlatList')
 module.exports = {
   baseUrl: process.env.NODE_ENV === 'production' ? './' : '/',
   devServer: {
+    port: 5432,
     before(app) {
       mock(app, '/book/home', homeData)
       mock(app, '/book/shelf', shelfData)
@@ -25,7 +26,7 @@ module.exports = {
     },
     proxy: {
       '/': {
-        target: 'http://47.99.166.157.xyz',
+        target: 'http://47.99.166.157',
         changeOrigin: true,
         ws: false
       }
@@ -36,9 +37,5 @@ module.exports = {
   },
   //关闭eslint 校验
   // eslint: false,
-  lintOnSave: false,
-  // devServer: {
-  //   //配置自动打开浏览器时的本地端口
-  //   host: '192.168.1.216',
-  // }
+  lintOnSave: false
 }
