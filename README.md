@@ -1,7 +1,6 @@
 项目截图：
 
-<img src="https://shulao-1308350433.cos.ap-guangzhou.myqcloud.com/pictures/1.png" alt="1" style="zoom:50%;" /><img src="https://shulao-1308350433.cos.ap-guangzhou.myqcloud.com/pictures/2.png" alt="2" style="zoom:50%;" />
-<img src="https://shulao-1308350433.cos.ap-guangzhou.myqcloud.com/pictures/3.png" alt="3" style="zoom:50%;" /><img src="https://shulao-1308350433.cos.ap-guangzhou.myqcloud.com/pictures/4.png" alt="4" style="zoom:50%;" />
+<img src="https://shulao-1308350433.cos.ap-guangzhou.myqcloud.com/pictures/1.png" alt="1" style="zoom:50%;width:200px;" /><img src="https://shulao-1308350433.cos.ap-guangzhou.myqcloud.com/pictures/2.png" alt="2" style="zoom:50%;width:200px;" /><img src="https://shulao-1308350433.cos.ap-guangzhou.myqcloud.com/pictures/4.png" alt="4" style="zoom:50%;width:200px;" />
 
 
 
