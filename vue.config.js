@@ -17,7 +17,7 @@ const flatListData = require('./src/mock/bookFlatList')
 module.exports = {
   baseUrl: process.env.NODE_ENV === 'production' ? './' : '/',
   devServer: {
-    port: 5432,
+    port: 7891,
     before(app) {
       mock(app, '/book/home', homeData)
       mock(app, '/book/shelf', shelfData)
