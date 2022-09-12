@@ -1,11 +1,9 @@
 项目截图：
 
-![1](https://shulao-1308350433.cos.ap-guangzhou.myqcloud.com/pictures/1.png)
-
-![2](https://shulao-1308350433.cos.ap-guangzhou.myqcloud.com/pictures/2.png)
-
-<img src="https://shulao-1308350433.cos.ap-guangzhou.myqcloud.com/pictures/3.png" alt="3" style="zoom:50%;" /><img src="https://shulao-1308350433.cos.ap-guangzhou.myqcloud.com/pictures/3.png" alt="3" style="zoom:50%;" />
-
+<img src="https://shulao-1308350433.cos.ap-guangzhou.myqcloud.com/pictures/1.png" alt="3" style="zoom:50%;" />
+<img src="https://shulao-1308350433.cos.ap-guangzhou.myqcloud.com/pictures/2.png" alt="3" style="zoom:50%;" />
+<img src="https://shulao-1308350433.cos.ap-guangzhou.myqcloud.com/pictures/3.png" alt="3" style="zoom:50%;" />
+<img src="https://shulao-1308350433.cos.ap-guangzhou.myqcloud.com/pictures/4.png" alt="3" style="zoom:50%;" />
 
 
 
