@@ -22,7 +22,17 @@ module.exports = {
       mock(app, '/book/shelf', shelfData)
       mock(app, '/book/list', listData)
       mock(app, '/book/flat-list', flatListData)
-    }
+    },
+    proxy: {
+      '/': {
+        target: 'http://47.99.166.157.xyz',
+        changeOrigin: true,
+        ws: false
+      }
+    },
+    allowedHosts: [
+      'shulaoya.fun'
+    ]
   },
   //关闭eslint 校验
   // eslint: false,
