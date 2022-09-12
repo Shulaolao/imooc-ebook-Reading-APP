@@ -1,3 +1,9 @@
+项目截图：
+
+![1](https://shulao-1308350433.cos.ap-guangzhou.myqcloud.com/pictures/1.png)![2](https://shulao-1308350433.cos.ap-guangzhou.myqcloud.com/pictures/2.png)
+
+![3](https://shulao-1308350433.cos.ap-guangzhou.myqcloud.com/pictures/3.png)![4](https://shulao-1308350433.cos.ap-guangzhou.myqcloud.com/pictures/4.png)
+
 项目大概成品：
 ![image](https://user-images.githubusercontent.com/99474694/170866926-95114b9d-20a5-497a-ad6a-1efd6f9c4300.png)
 
@@ -27,7 +33,7 @@ nginx 代理服务：
     }
 ```
 
-    
+
 如果在浏览器输入本地ip+端口号能和成功展示资源的话就表示成功部署了nginx 静态资源：
 ![image](https://img-blog.csdnimg.cn/img_convert/793060900c55ed046189d1979e64076c.png)
 
@@ -40,7 +46,7 @@ nginx 代理服务：
 
 如果觉得项目不错，可以给个 star 呀~
 
-﻿
+
 # vue-imooc-ebook
 
 ## Project setup
