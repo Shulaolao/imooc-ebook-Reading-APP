@@ -32,7 +32,8 @@ module.exports = {
       }
     },
     allowedHosts: [
-      'shulaoya.fun'
+      'shulaoya.fun',
+      '.shulaoya.fun'
     ]
   },
   //关闭eslint 校验
