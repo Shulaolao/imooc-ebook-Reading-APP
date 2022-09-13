@@ -32,8 +32,7 @@ module.exports = {
       }
     },
     allowedHosts: [
-      'shulaoya.fun',
-      '.shulaoya.fun'
+      'ebookapp.shulaoya.fun'
     ]
   },
   //关闭eslint 校验
