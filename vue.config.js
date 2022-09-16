@@ -26,13 +26,13 @@ module.exports = {
     },
     proxy: {
       '/': {
-        target: 'http://47.99.166.157',
+        target: 'http://47.99.166.157.com',
         changeOrigin: true,
         ws: false
       }
     },
     allowedHosts: [
-      'ebookapp.shulaoya.fun'
+      '.shulaoya.fun'
     ]
   },
   //关闭eslint 校验
