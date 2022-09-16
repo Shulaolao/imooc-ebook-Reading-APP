@@ -6,23 +6,21 @@
 
 
 
-### 项目截图：
+## 项目截图：
 
 <img src="https://shulao-1308350433.cos.ap-guangzhou.myqcloud.com/pictures/1.png" alt="1" style="zoom:50%;width:200px;" /><img src="https://shulao-1308350433.cos.ap-guangzhou.myqcloud.com/pictures/2.png" alt="2" style="zoom:50%;width:200px;" /><img src="https://shulao-1308350433.cos.ap-guangzhou.myqcloud.com/pictures/4.png" alt="4" style="zoom:50%;width:200px;" />
 
 
 
-### 项目在线体验（online）
+## 项目在线体验（online）
 
 http://ebookapp.shulaoya.fun:5432/
 
 
 
-#### 静态资源（用于nginx 动静分离加速访问，如果选择接口访问则这步可以忽略）
+## 静态资源（用于nginx 动静分离加速访问，如果选择接口访问则这步可以忽略）
 
-------
-
-##### 资源自取
+### 资源自取
 
 包含主题样式、图片、电子书云盘需要自取（资源比较大，几个G）：
 book 文件夹：Theme 主题样式
@@ -34,7 +32,7 @@ fonts 文件夹：字体样式
 
 
 
-##### nginx 代理服务
+### nginx 代理服务
 
 电子书等静态资源下载到本地后，资源要开启 nginx 代理服务，到 nginx>conf 文件夹下开一个监听端口（这里我的静态资源是在 resource文件夹)：
 添加代码（这里开启了8081 端口）：
@@ -59,7 +57,7 @@ fonts 文件夹：字体样式
 
 
 
-#### 接口访问
+### 接口访问
 
 ------
 
